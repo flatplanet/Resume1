@@ -1,0 +1,10 @@
+$navbar-default-brand-color:#333333;
+$text-color: #555;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.navbar-brand
+{
+  font-size: 26px;
+}
